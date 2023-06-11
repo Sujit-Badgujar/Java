@@ -27,5 +27,6 @@ public class arrayPopulate {
 		for(int k=0; k<n; k++) {
 			System.out.print(arr[k]+" ");
 		}
+		
 	}
 }
